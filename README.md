@@ -31,8 +31,8 @@ Air Conditioner
 - 📱 便携
 - 🔋 低功耗（使用 HTML CSS 而非 Canvas 绘制）
 - 🔊 静音
-- 🎮 操作简单
-- 🔧 安装便捷
+- 🎮 操作简单rwrwrwrw
+- 🔧 安装便捷rwfsfs
 
 ### 劣势
 
